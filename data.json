@@ -1,0 +1,190 @@
+{
+    "sections": [
+        {
+            "title": "Summary of Qualifications",
+            "content": "Graduated from Queens College with a degree in Computer Science, I've cultivated a sincere passion for technology and a genuine curiosity for solving complex challenges. Proficient in languages like Python, JavaScript, SQL, Java, and Kotlin, my approach is always learning-oriented and detail-focused. I strive to bring thoughtful solutions and a collaborative spirit to every project, aiming to contribute meaningfully while continuously growing in the ever-evolving field of technology."
+        },
+        {
+            "title": "Core Competencies",
+            "subSections": [
+                {
+                    "subTitle": "Technical Expertise",
+                    "points": [
+                        "Proficient in Python, JavaScript, SQL, Java, Kotlin; pursuing AWS Certified Developer Associate certification. Experienced in Android development, web design (Figma, Webflow), and data management (MySQL, Data Analysis, Excel workbooks, Microsoft offices, Power-BI, Tableau, Data mining, Data warehousing, Big Data)."
+                    ]
+                },
+                {
+                    "subTitle": "Project Leadership",
+                    "points": [
+                        "Successfully managed and implemented IT projects during internships at NYC Departments of Veterans' Services and Sanitation, showcasing skills in technical documentation, inventory management, and IT solutions."
+                    ]
+                },
+                {
+                    "subTitle": "Professional Development",
+                    "points": [
+                        "Demonstrated continuous learning and application in software development, database management, and technical support, with a strong focus on efficiency and process improvement. Fast and curious learner with attention to details."
+                    ]
+                },
+                {
+                    "subTitle": "Training and Teamwork",
+                    "points": [
+                        "Skilled in training, leading teams; boosting productivity and knowledge in tech and IT environments."
+                    ]
+                }
+                ]
+        },       
+        {
+            "title": "Professional Expertise",
+            "subSections": [
+                {
+                    "subTitle": "NYC Department of Veterans' Services (DVS)",
+                    "role": "Information Technology Intern",
+                    "dateRange": "09/2022 - 08/2023",
+                    "points": [
+                        "Tasked with leading and managing diverse IT projects, focusing on the development of innovative solutions and support strategies to enhance organizational effectiveness.",
+                        "Assisted in building a priority-based IT solution and developing a token-based website and maintained system integrity following the SDLC.",
+                        "Excelled in creating and implementing technical documentation and best practices.",
+                        "Spearheaded data cleanup processes for enhanced system accessibility.",
+                        "Proven ability in troubleshooting, offering effective solutions, and training new staff and interns in IT solutions and inventory management."
+                    ]
+                },
+                {
+                    "subTitle": "NYC Department of Sanitation (DSNY)",
+                    "role": "Information Technology Summer Intern",
+                    "dateRange": "06/2022 - 08/2022",
+                    "points": [
+                        "Responsible for enhancing IT documentation and inventory management processes, contributing to the optimization of internal systems, and improving user experiences.",
+                        "Contributed to the development of a secure Android application in Kotlin.",
+                        "Collaborated with senior developers to code, test, and implement application programs.",
+                        "Excelled in drafting and applying IT documentation and standards.",
+                        "Directed comprehensive data cleanup for system accessibility improvement.",
+                        "Skilled in troubleshooting and training staff in IT solutions and documenting inventory control."
+                    ]
+                },
+                {
+                    "subTitle": "Queens College City of NY",
+                    "role": "Laboratory Assistant",
+                    "dateRange": "01/2020 - 05/2020",
+                    "points": [
+                        "Responsible for the critical maintenance and preparation of laboratory environments, ensuring streamlined academic operations and the meticulous management of supplies and equipment.",
+                        "Maintained and meticulously managed laboratory inventory, ensuring the accuracy and up-to-date status of information."
+                    ]
+                }
+            ]
+        },       
+        {
+            "title": "Education",
+            "subSections": [
+                {
+                    "subTitle": "Queens College of the City University of New York",
+                    "role": "Bachelor of Arts in Computer Science",
+                    "dateRange": "12/2023"
+                }
+            ]
+        },      
+        {
+            "title": "Projects",
+            "subSections": [
+                {
+                    "subTitle": "Python",
+                    "projects": [
+                        {
+                            "name": "Python Projects",
+                            "url": "https://replit.com/@YousufKh?path=folder/Python%20Projects"
+                        },
+                        {
+                            "name": "Association Pattern Discovery",
+                            "url": "https://replit.com/@YousufKh/AssociationPatterDiscovery#main.py"
+                        }
+                    ]
+                },
+                {
+                    "subTitle": "Kotlin",
+                    "projects": [
+                        {
+                            "name": "Simple Twitter",
+                            "url": "https://github.com/YousufKh72/SimpleTwitter.git"
+                        },
+                        {
+                            "name": "Flixter",
+                            "url": "https://github.com/YousufKh72/Flixter.git"
+                        },
+                        {
+                            "name": "Instagram Simple",
+                            "url": "https://github.com/YousufKh72/InstagramSimple.git"
+                        }
+                    ]
+                },
+                {
+                    "subTitle": "Out Sourcing Projects",
+                    "projects": [
+                        {
+                            "name": "Wikigrisser",
+                            "url": "https://github.com/YousufKh72/wikigrisser-next"
+                        }
+                    ]
+                },
+                {
+                    "subTitle": "Other",
+                    "projects": [
+                        {
+                            "name": "College Projects",
+                            "url": "https://github.com/qc-se-spring23/370Spring23Yousuf-Khandaker.git"
+                        }
+                    ]
+                }
+            ]
+        },       
+        {
+            "title": "Relevant Coursework",
+            "subSections": [
+                {   
+                    "subTitle": "Computer Science",
+                    "points": [
+                        "DSA", 
+                        "Computer Architecture",
+                        "Operating Systems",
+                        "Software Engineering",
+                        "Internet and Web Technologies", 
+                        "Database Systems",
+                        "Data Warehousing", 
+                        "Algorithms for Big Data", 
+                        "Introductory Analytics"
+                    ]
+                }
+            ]   
+        },
+        {
+            "title": "Certifications",
+            "subSections": [
+                {
+                    "subTitle": "CodePath",
+                    "name": "CodePath Android Development",
+                    "date": "05/2022"
+                },
+                {
+                    "subTitle": "AWS",
+                    "name": "AWS Developer Associate ",
+                    "date": "In Progress"
+                }
+            ]           
+        },
+        {
+            "title": "Language",
+            "subSections": [
+                {
+                    "subTitle": "English",
+                    "name": "Fluent"
+                },
+                {
+                    "subTitle": "Bengali",
+                    "name": "Native"
+                },
+                {
+                    "subTitle": "Hindi",
+                    "name": "Intermidiate"
+                }
+            ]           
+        }
+    ]
+}
